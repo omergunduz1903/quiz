@@ -1,0 +1,39 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 220px;
+    height: 450px;
+}
+.alan{
+    width: 500px;
+    height: 450px;
+    background-color: antiquewhite;
+}
+.kutu1{
+    width: 300px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+button{
+    width: 150px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: 0px solid white;
+    border-radius: 5px;
+    
+}
+h1{
+    color: green;
+}
+h5{
+    color: rgb(184, 181, 181);
+}
